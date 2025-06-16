@@ -189,17 +189,17 @@ export const chats = [
         role: "bot",
       },
       {
-        id: "msg-2-1",
+        id: "msg-2-5",
         content: "Hello, how can I help you?",
         role: "bot",
       },
       {
-        id: "msg-2-2",
+        id: "msg-2-6",
         content: "Generate a coffee shop website",
         role: "user",
       },
       {
-        id: "msg-2-3",
+        id: "msg-2-7",
         content:
           "Creating a coffee shop website involves several key components, including design, content, and functionality. Below is a basic outline and example content for a coffee shop website. You can use this as a template to build your site.\n" +
           "\n" +
